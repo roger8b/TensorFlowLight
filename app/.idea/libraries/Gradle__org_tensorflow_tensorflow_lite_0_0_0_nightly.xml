@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.tensorflow:tensorflow-lite-0.0.0-nightly">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/96b2649be36534908e4f61137aa4f74a1ab50aab/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/96b2649be36534908e4f61137aa4f74a1ab50aab/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
